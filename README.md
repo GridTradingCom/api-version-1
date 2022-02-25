@@ -1,3 +1,5 @@
+![Grid Trading](https://i.imgur.com/nvpnasc.png)
+
 # Grid Trading API Version 1 Documentation
 GridTrading.com version 1 documentation is now in private beta and accepting users.
 
